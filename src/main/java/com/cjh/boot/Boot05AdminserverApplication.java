@@ -12,6 +12,7 @@ public class Boot05AdminserverApplication {
         System.out.println("项目启动了");
         System.out.println("项目启动了1");
         System.out.println("项目启动了2");
+        System.out.println("master test");
         SpringApplication.run(Boot05AdminserverApplication.class, args);
     }
 
